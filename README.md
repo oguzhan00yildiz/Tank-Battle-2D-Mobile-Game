@@ -6,3 +6,5 @@ This project made in 2022. It is an amateur project.
 # How to launch the game
 For best experience
 Choose 1920x1080 Landscape mode and game is mobile adapted, use simulator mode in Unity.
+
+![TankBattlepic](https://user-images.githubusercontent.com/95942385/218268380-e5569bcb-3eaa-4be6-a51c-85bfcc4cec64.png)
